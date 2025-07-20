@@ -1,0 +1,14 @@
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/bin/Debug/net8.0/Exam10count
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/bin/Debug/net8.0/Exam10count.deps.json
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/bin/Debug/net8.0/Exam10count.runtimeconfig.json
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/bin/Debug/net8.0/Exam10count.dll
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/bin/Debug/net8.0/Exam10count.pdb
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/Exam10count.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/Exam10count.AssemblyInfoInputs.cache
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/Exam10count.AssemblyInfo.cs
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/Exam10count.csproj.CoreCompileInputs.cache
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/Exam10count.dll
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/refint/Exam10count.dll
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/Exam10count.pdb
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/Exam10count.genruntimeconfig.cache
+/Users/solventyazilim/RiderProjects/ArraysExam/Exam10count/obj/Debug/net8.0/ref/Exam10count.dll
